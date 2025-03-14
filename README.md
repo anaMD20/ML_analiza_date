@@ -1,2 +1,2 @@
 # ML_analiza_date
-Proiectul oferă oportunitatea practică de a dezvolta abilități concrete în manipularea și analiza datelor, aplicarea diverselor tehnici de preprocesare și optimizare, precum și înțelegerea profundă a modului în care pot fi utilizate modelele de machine learning pentru obținerea de soluții eficiente în situații reale.
+The project offers the practical opportunity to develop concrete skills in data manipulation and analysis, the application of various preprocessing and optimization techniques, as well as a deep understanding of how machine learning models can be used to obtain effective solutions in real-world situations.
